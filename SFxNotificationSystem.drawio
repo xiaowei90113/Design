@@ -1,162 +1,159 @@
-<mxfile modified="2021-08-06T09:16:29.114Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="O8Uhz0HbI97x6K7qtyNf" version="14.9.2" type="github">
+<mxfile modified="2021-08-09T02:54:09.973Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="R8KtwRi3NuHsk6Ab452U" version="14.9.5" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1422" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="600" y="510" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-11" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Notification System&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-11" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Notification System&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="120" y="220" width="980" height="673" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="445" y="170" as="sourcePoint" />
-            <mxPoint x="445" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="445" y="160" />
-              <mxPoint x="445" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-9" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Platform&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-9" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Platform&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="120" y="-100" width="980" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="RLjyjs_sm2IHfBNOWAbh-14" value="Notification Event Event Hub" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" parent="1" vertex="1">
-          <mxGeometry x="420" y="388.99999999999994" width="48.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-1" value="Notification Message Service Bus" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-1" value="Notification Message Service Bus" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
           <mxGeometry x="750.83" y="380" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-2" value="Email" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-2" value="Email" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="631.6700000000001" y="640" width="56.66" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-3" value="Notification Message API" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-3" value="Notification Message API" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" parent="1" vertex="1">
           <mxGeometry x="742.78" y="250" width="65" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-4" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.filter" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-4" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.filter" parent="1" vertex="1">
           <mxGeometry x="1040" y="580" width="25" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-5" value="Email Sub" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-5" value="Email Sub" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="620" y="530" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-6" value="&lt;br&gt;Notification Subscription" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="490" width="110" height="90" as="geometry" />
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-6" value="&lt;br&gt;Notification Subscription" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="399.75" y="410" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="775" y="180" as="sourcePoint" />
             <mxPoint x="775" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-8" value="Notification API" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-8" value="Notification API" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" parent="1" vertex="1">
           <mxGeometry x="743.3299999999999" y="90" width="65" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-10" value="Event Hub" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" vertex="1" parent="1">
-          <mxGeometry x="420" y="79.99999999999994" width="48.5" height="50" as="geometry" />
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-10" value="Event Hub" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" parent="1" vertex="1">
+          <mxGeometry x="430.5" y="-70.00000000000006" width="48.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-12" value="Timer Functions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-12" value="Timer Functions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="610" y="-80" width="56.67" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-13" value="Additive Functions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-13" value="Additive Functions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="740" y="-80" width="56.67" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-16" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-16" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="840" y="-70" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-17" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-17" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="880" y="-70" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-18" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-18" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="860" y="-70" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-20" value="Timer Functions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-20" value="Timer Functions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="610" y="-80" width="56.67" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-21" value="Additive Functions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-21" value="Additive Functions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="740" y="-80" width="56.67" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-26" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-26" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="775.33" y="10" as="sourcePoint" />
             <mxPoint x="775.33" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-27" value="Notification Event API" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="414" y="250" width="65" height="60" as="geometry" />
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-27" value="Notification Subscription API" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" parent="1" vertex="1">
+          <mxGeometry x="422.25" y="250" width="65" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-31" value="&lt;br&gt;Notification Message" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-31" value="&lt;br&gt;Notification Message" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="735.8299999999999" y="790" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-33" value="Push Sub" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-33" value="Push Sub" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="716.67" y="530" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-35" value="SMS Sub" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-35" value="SMS Sub" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="807.78" y="530" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-36" value="Push" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-36" value="Push" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="728.34" y="640" width="56.66" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-37" value="SMS" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-37" value="SMS" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="819.45" y="640" width="56.66" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-39" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-39" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="900" y="550" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-40" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-40" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="930" y="550" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-41" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" vertex="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-41" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="960" y="550" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-43" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-43" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="720" as="sourcePoint" />
             <mxPoint x="790" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-45" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-45" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="775" y="460" as="sourcePoint" />
             <mxPoint x="774.78" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-46" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-46" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="442" y="340" as="sourcePoint" />
-            <mxPoint x="442" y="380" as="targetPoint" />
+            <mxPoint x="470" y="390" as="sourcePoint" />
+            <mxPoint x="470" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-48" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-48" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="775.33" y="336" as="sourcePoint" />
             <mxPoint x="775.33" y="374" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-49" value="Notification Middleware" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" parent="1" vertex="1">
+          <mxGeometry x="426.4200000000001" y="95" width="56.66" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n8qFsQKtH1UMpTW4uRxC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="545" as="sourcePoint" />
-            <mxPoint x="730" y="414" as="targetPoint" />
+            <mxPoint x="454.25" y="15" as="sourcePoint" />
+            <mxPoint x="454.25" y="85" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="570" y="545" />
-              <mxPoint x="570" y="414" />
+              <mxPoint x="454.25" y="5" />
+              <mxPoint x="454.25" y="5" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-49" value="Notification Middleware" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="1">
-          <mxGeometry x="414.00000000000006" y="520" width="56.66" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-50" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="yPkZzLH66dMSfukOqogM-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="470" as="sourcePoint" />
-            <mxPoint x="440" y="510" as="targetPoint" />
+            <mxPoint x="446" y="350" as="sourcePoint" />
+            <mxPoint x="446" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8qFsQKtH1UMpTW4uRxC-51" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+        <mxCell id="yPkZzLH66dMSfukOqogM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454" y="180" as="sourcePoint" />
+            <mxPoint x="454.25" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="454.25" y="160" />
+              <mxPoint x="454.25" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yPkZzLH66dMSfukOqogM-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="540" as="sourcePoint" />
-            <mxPoint x="390" y="540" as="targetPoint" />
+            <mxPoint x="500" y="122" as="sourcePoint" />
+            <mxPoint x="720" y="122" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
