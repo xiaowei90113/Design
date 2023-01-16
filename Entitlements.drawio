@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T08:47:56.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="A9nj2pWArvg9rIok5JsA" version="20.2.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-16T08:48:43.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="rmeKyQkrc63eCfsFd2q8" version="20.2.8" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Entitlement Check">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,14 +105,20 @@
         <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-4" value="User Self-Register?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="230" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-6" value="User Self-Registered in Nexus / User contact created in Sentinel EMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-6" value="User Self-Registered in Nexus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="540" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZE4uKnnBFG1ciTwPN4Z-7" target="4ZE4uKnnBFG1ciTwPN4Z-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZeVZ9XcCpanhduhXeq1--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZE4uKnnBFG1ciTwPN4Z-7" target="ZeVZ9XcCpanhduhXeq1--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-7" value="User Input Username and Password" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="390" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeVZ9XcCpanhduhXeq1--1" value="User Contact Created Into Sentinel EMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="390" width="125" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
