@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T13:47:41.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eAemNbQQt8G4gHewbdDT" version="20.8.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-19T13:49:57.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qZMYhL8PaUboa3jemTxY" version="20.8.5" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Entitlement Check">
     <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,38 +140,35 @@
         <mxCell id="oxGQ6yeSXu-0JhTEDM16-1" value="Hexagon Admin / Organization Admin / Partner Logs Into Nexus Portal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="80" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oxGQ6yeSXu-0JhTEDM16-7" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oxGQ6yeSXu-0JhTEDM16-2" target="oxGQ6yeSXu-0JhTEDM16-6" edge="1">
+        <mxCell id="LLcdLGuTmR78S-bJ6oTK-1" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oxGQ6yeSXu-0JhTEDM16-2" target="oxGQ6yeSXu-0JhTEDM16-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oxGQ6yeSXu-0JhTEDM16-2" value="Invite User?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="72.5" width="140" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="oxGQ6yeSXu-0JhTEDM16-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oxGQ6yeSXu-0JhTEDM16-6" target="oxGQ6yeSXu-0JhTEDM16-8" edge="1">
+        <mxCell id="Af-4OrS7k8KYtrDLePJh-4" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DIx39uCaoXOHJm8hFo8u-3" target="Af-4OrS7k8KYtrDLePJh-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Af-4OrS7k8KYtrDLePJh-4" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oxGQ6yeSXu-0JhTEDM16-6" target="Af-4OrS7k8KYtrDLePJh-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oxGQ6yeSXu-0JhTEDM16-6" value="Invitee is In Nexus?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="260" width="140" height="105" as="geometry" />
         </mxCell>
         <mxCell id="Af-4OrS7k8KYtrDLePJh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oxGQ6yeSXu-0JhTEDM16-8" target="Af-4OrS7k8KYtrDLePJh-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oxGQ6yeSXu-0JhTEDM16-8" value="User Accept Invitation Via Email" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="267.5" width="150" height="90" as="geometry" />
+          <mxGeometry x="575" y="80" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Af-4OrS7k8KYtrDLePJh-1" value="User Invited Into Organization" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="267.5" width="150" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="7FIgmbyoldq9o7S9Vdt1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Af-4OrS7k8KYtrDLePJh-3" target="oxGQ6yeSXu-0JhTEDM16-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="815" y="80" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Af-4OrS7k8KYtrDLePJh-3" value="User Contact Created Into Sentinel EMS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="315" y="450" width="150" height="90" as="geometry" />
+          <mxGeometry x="1340" y="80" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DIx39uCaoXOHJm8hFo8u-3" value="Invite User?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="420" width="140" height="105" as="geometry" />
+        <mxCell id="DIx39uCaoXOHJm8hFo8u-3" value="Sentinel contact for&amp;nbsp; user is existed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="72.5" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="LLcdLGuTmR78S-bJ6oTK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DIx39uCaoXOHJm8hFo8u-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="965" y="124.5" as="sourcePoint" />
+            <mxPoint x="1055" y="124.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
