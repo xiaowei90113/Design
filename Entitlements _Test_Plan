@@ -1,1 +1,396 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T17:20:25.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="O_fWC6KtdwQhssqJCvcr" version="14.9.5" type="github" pages="5"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Entitlement Check">7Vpbc9o4FP41PDbjG4Y85gIJKWGzSxvap47WVmxtZMuVxK2/vkcgbIwcQjaTmridyQzW8YllnU/fp6Mjt9yLZHHFURbfshDTlmOFi5Z72XIc23OclvqzwuXa0ml7a0PESaidCsOY/MDaaGnrlIRYlBwlY1SSrGwMWJriQJZsiHM2L7s9MFruNUMRNgzjAFHTOiGhjNfWrtMp7NeYRPGmZ9s/Xd9J0MZZj0TEKGTzLZPba7kXnDG5vkoWF5iq4G3iMhksJ3T46F/d/C2+o8/nHz+N7j+sH9Z/yb/kQ+A4lf/70YPJ6Fpm80nvr4X3bUzv+iL6+MHWg50hOtUB04OVy00EcQgB1U3GZcwiliLaK6znnE3TEKt+LGgVPkPGMjDaYPwPS7nUswNNJQNTLBOq7x44QB0IwaY8wHv8XD3PEI/wvuf5az81wK3JosN3hVmCJV+CA8cUSTIrzyikJ2aU+xXBhwsd/xfA7BpQfBaYg2XIIgE/gxTC5lgjvJiq5h3EGVEDrQILFdh5TCQeZ2gVrjkwvBz3B5ZKDYoNAz+PKBJCwygkZ485Z5R3TgDrxZDNMJd4sTfI+q6r2ablxtfNecFd29K2eIu3Xev1qHyRZyNnMLz5kvVv6P3Xm/vx4nsFKiPWAIr4JkUqBaJbF0UqwfAMML7C2vL7oGEdlWD5BhoXMQ4ewaSFq5dKIilOIEjQd9/Uqpgl/4KYPatTJeVRotVHCaFKIq4xnWFJAlShZoiSKIVGAP3D+1RKGnRJ0ghaftH6tJoEMNneTuUcyz3ptEtK5/knTtsUO9c5aZtyZ1udjfk1sFZOMpNk74th+5jzLMPsuhi27623oOhzloDlLAggwBKuLjnLgBtpwboxppBIqxThdrlLwqZlC/k2Q5MoTx+2KeS8Ub5QCVm7iezZbNyeY49zVOyxDSjGSyGx4s8lERlFS0WSIRGKR+yhzJXVXlPRScY451bD2eNWZdu/lD1mStEA9jgHssc9KvY4BhR6ffkHzwieP82c5q8y3mndPHmyVrAGZ1UfwDwhQhCWqtaZECwgSAIK6rXhrQEzFKifsyyjkEBL8Gw8cn7t+YHdbaLEdQ+UOLtTl8ZV1hNMjXt39YRXwXF6VCuOyYxNARRN0yDGYkes/lQUtpTO2ymcHk05wTZJ1gCGnR4qeMdVUDCPe/ItUaBqd4piq1OGMVa7nsFDUVaIkVgXHrDIvZqcOnhuwaA6qguVC5ZZEHpvpxF7WfI8nWrbI1XCYVYYmpE/HI6Hd1TyZpuAVKnXn8RhT+JQWQSqIW0wt7i6aKd2rpyvanO3gKb6/qNpa4/v72DSKY6L6tu5mgdDefJwx9ls9Z3PbobQyLppRWrQ9movLHSe0r4hLCZT2TgUdknyhsXrljp323zntbq39bWc2/sJ</diagram><diagram id="DYMGI4B3t5d0-QfFQbIk" name="Create Contact (Self-Register)">3Zhrk5owFIZ/DR/tcPP2cZfiZbpad9m2W79l4SzQgYSGINpf3yBBYEBrZ7qKnXFG8uZgcp6c88ogaUa4nVIUeQviQCCpsrOVtI+Sqiq6qkrZR3Z2uTLs67ngUt8RQaVg+b9AiLJQE9+BuBbICAmYH9VFm2AMNqtpiFKS1sPeSFBfNUIuNATLRkFT/eY7zMvVUV8u9Rn4rlesrMhiJkRFsBBiDzkkrUiaKWkGJYTlV+HWgCCDV3DJ75scmT1sjAJm59yge/rnuSkvF0+z58fHu1f1fjPpafmvbFCQiITFZtmuIAAOByKGhDKPuASjwCzVe0oS7EC2jMxHZcwDIREXFS7+AMZ24nRRwgiXPBYGYraZisguJgm14cT+i5JA1AV2Ik6kleVSWUCAmgIJgdEdD6AQIOZv6oePRA25h7gSM78QpP+CutKg/iUGypU724Y45hdL2CbZ94rTREHjTEriGb7U8xlYEdqTSnkfnkl3A5TB9iQPMVuUu2jigRimZUcoRZl7lW4Yyv8A4NrUk08Y30+miu0/p6ulvi6OswLwOzeJm6pctaVy21JVrla5bbvpN8Avyf/JXe+UYzQLfoYyfxC+4eODZ2iTplt4JHzNpi7gFAdv2NWdo2oVWotVjN/LKo567QNxM4JzzGurg4bbMccd3ZbjnujoP3b+sFOOqx+rXwuCt94TuH7M+Lhjba9q1+77wVnceCXW3PPafa8O1A/9uoHqba3fb5IcvRfJcYPkbfX98My+H1yr79fwdT1+sY0IYc9JvBf4qfRa/vFvnnprnt16vh0ec405jhImHrgwCiFbHGfmsUJxnBLqdNA6tPEFrePU4TZxGgQzZGdADQqI7W1YPIlZHIGP96+RzIV1daz6+HJQ+bB8H7Sfq7xV08zf</diagram><diagram id="YayktdIFibmNCx_APFSF" name="Create Contact (Invitation)">1Vhdd6IwEP01PrqHb/Cxq/Zrte0edrvtYwpTyC4QNwaF/voOEkQ21uM+WPUcjzA3E5LcuZkM9MxhWlxxMounLISkZ2hh0TNHPcPQLcPoVT8tLGvEta0aiDgNpVML+PQNJKhJNKchzDuOgrFE0FkXDFiWQSA6GOGcLbturyzpjjojESiAH5BERX/RUMQ16tlai18DjeJmZF2TLSlpnCUwj0nIlhuQOe6ZQ86YqO/SYghJRV7DS93v8oPW9cQ4ZGKfDqy4+u6U4D/lfe02/jEeTXWnb9ZPWZAklwuWkxVlwwCESIg0GRcxi1hGknGLfuUsz0KohtHQan0mjM0Q1BH8DUKUMrokFwyhWKSJbFWXIlc3ZzkPYMf8G0kQHoHY4SeXVa1lYwBJ1BWwFAQv0YFDQgRddINPpIaitV9LM95Ipv+DdV1h/RoKgpwheBGmtLpWIxjaPY9IRt9wTlsaHwgXGXC8m7BojpebDJk1tDso8sp8wFCQRAloG66K+2VMBfgzsqJ5iZt4z9AsgAsodpIpW125AWQG8KS5bLeT3myneGMrDbQDse8q7D9jhjkr2Rt7yt45KdkbCvE32QLVh9jPOerYvFS1GrP0BcX8GTo1ja5QXeOLrUrV2iJVXbMPRNng/LXq7KlV71havXjtW/fcd/94354FH03g4TbuWwrxd+zsed+6UvOkcoTzQY6okgStz7j1CXdi+cJwtpxsB0sXW2OpZtjz0qy3p2b1k9Ksp7C+Os6wXAsCmImVaFHDTRH3SAn+j1NCj1+b2c6/Gna3HXqHqs92BVels84EYVvodqvjI1PpaUel0r28idKXEt9v/w6Y6w8eQ6E3VH7u9kcKeflU9cf1S/N5s21UyIfXVimtvdLGriPszEoM9d1b6nzIMkGCKm8MOZCO4n3khmarbyzjqX90zZu63dG8ZR/u5Q7N9mPJqm3jk5M5fgc=</diagram><diagram id="T4UnE4BxFB6iAvoPjaAS" name="E2E">7ZrbcpswEIafxjPpRTogDrYvEx/azCSdTNI27aVi1qBWRq4Qsd2nr4QFGCsTk04dCGkSE7QIMP/uJ2kles5osf7A8TK6YgHQHrKCdc8Z9xCyXYR66s8KNltL33O3hpCTQFcqDbfkN2ijpa0pCSCpVBSMUUGWVeOMxTHMRMWGOWerarU5o9W7LnEIhuF2hqlpvSOBiLbWgWeV9o9Awii/s23pIwucV9aGJMIBW+2YnEnPGXHGxHZvsR4BVeLlukyv7/zx8AZ595P+2FteswFcnW4vNn3OKcUjcIjFv720dm4iNrleEEj5dJFxEbGQxZhOSus5Z2kcgLqqJUtlnUvGltJoS+MPEGKjYwGngklTJBZUH635OPqxE5byGTxRz9FRhXkIT15P+1E94U5saLU+AFuA4BtZgQPFgjxUAwjrOAyLeqXWckfL/Qzp9dd+wDTVdzJ8UVV6FREBt0ucibGStFZVTQRnP2HEKOPZ2c4o+5FH5oTSin3iTafP9sMDcAHrJ4XTRx0t9KbaEqxK/NBA26Id9BzXOpLU7mGpX1/YezXDvt+qqPcMV3yClTR8SYD3kE/lk5zfq71Q7Z3cAp2f3kBIEgFcii/vjayL+EGSELx7KV6G6veIvAyqvLgmLzZ6hBf/WLj4HaCjX5OOQavo6Jt0MFmexIIICgslDbLOkoSEsYKhk+FvNx7/A8MLowhmP1U4RSC3l7I1kv/YvGi3qh7qpFsKuRtzy7ADzVI+FjrYLiG/VQ1T/r13mLiUSqaKAxwHCgoWkjhL7koq5BDXOrEzPEjn+LDt/W67aUBs23BSF5BBNZGx3XYhg8zO/M0PdV0DmqaZqZGGv0Jm3LrMtCs7tM1M/Q0MgPehaH4EbJtpeheoqJsU2sN2UeG/aW/kT9sWb5hJ+g38SiHLCc+uL+T2K6YkwIKpMfBcbX28UK1PfJ8sMyGtKWCRcuhqC9aCft1M4rvAzLAuM3a7mBka3jgLAqNjP7lKBVlSKAG5GL/LGdKTL9vR88tgc+yFkn1sHK9pbIq1ztdMSbHOfJASp1WUIDN//+uexTb82JGuxW18HjLvSSpukpqr2a8ppklnenW/db06MrP1QvrPPO2O8lbrgt7MzPUkr5rfLdqh7VZaVN1T+SmnvBLDOVIM8ZQHYhbDnvjaJFvBMJbFmdRdfgnnXElLZpie6QMLEgRZ3/SYy6tBcSwfHn4LosjzK29BHM2DXhNduxSVb76p8997efG7vlxWGK8rpc1feeXwkMCvOyRo14IwMlP/t7gWub/W4j1G08u2h/0maPrXVAzqUtGuCTFkJvc1ViNdlWGq5rWyHNmZpZV9RnyncUbMrP9/44VQ/4jDaFksX0jOju281u1M/gA=</diagram><diagram id="d_AmKAWRjp_Xg8yRCRSn" name="Componenet Testing">7Vvhk6I2FP9rmGk/bAcCiH5d197tzF3nWuem236LEIUrEBvCqv3rm0gQSVzWUyFw48y6kkfySH6/l+S9FzTsabL9QOA6/IwDFBvADLaG/WQAYDkAGPzPDHaFxHOdQrAiUSAqVYJ59B8SQlNI8yhAWa0ixTim0bou9HGaIp/WZJAQvKlXW+K4/tQ1XCFFMPdhrEr/jAIaFtKxa1byjyhaheWTLVPcSWBZWQiyEAZ4cySyZ4Y9JRjT4irZTlHMwStx+dt8SR5evv3+BToPz8s1mf+RbR4KZb9+T5PDEAhK6Y1VC3ZfYZwLwMRg6a5EEAUMUFHEhIZ4hVMYzyrpI8F5GiD+HJOVqjqfMF4zocWE3xClO2EdMKeYiUKaxOIuGxfZvYj2+8JfvPCLWxaftsc3n3aiVPSVd1Ai+x2kRL0M58RHDfUEGBSSFWrSNz6YA5tHCCeIdZK1IyiGNHqtdw4Kg14d6lWksQvB23dwqFL4gXUWmF8zRNjXLKURjVHCEMkUbivmOA2bMKJovoZ7TDZsPaizJJ6DCEXbC/BW8RFaJmKCiRUGeKK8qearVS4nYX2utgSpp0AK+LJgPrDPpyjj6OIlf/BeFaohzJYoDjtkn3zPgDyd4pitfUgf3LZZx9s5AbdzAu5JW2iPG9D+DQ8fYGukG+HJxQhHKWvEdA8FazDWjXW5KN1m8WDjYMNg1bbriKBAadB3PhxTOx/2oF0ctI3oS6mDXR+1YqWqES/0zS3yrnSLRNMvOEppZWKH0KKc8q5bV1H0X7Q69oglRbasyJIUFQNUFO3N8DCeKyzTuVumJsuctGOZQDKo0aWWKSsCHVume7dMTZZpme2Ypi0HWZeapqzI7tg0R4M2zbbNzPLOtbNrl8DrnDI1wp6GyP/HOJW2UPjtRdZiLAV5pq09bWE1RdJN+B6FHfVwrww/SukSQZoT9MxUmz99rVXBKapHJz+r81J3dCKnmjztuQ+rKTS/OWUhfI3SVZ0mVlrk/H+KK7UE/ZujjCJJQd/5HGvPtICm6L/k872Yf7GrYGdXz5wFw32sLEFQnJ5I3RjuAHiaaM/SlAPTslQmOT//iqX1MhvAglkdj+ljDgzaAexjbHK+03jtQdcbwYmUNJxcnNGRFXWc0QH3XKM22wQtBc5SknBycU5HVtRxTgfcs436bPONXfbG+cbJxUkdWVHHSR2g5hsrb+ydMLN/TpO8C7mnMgPd+kzDTpr1ce6Dc6e+28m2dLNDMEdW1PbUb3rX5pxALDXUtxQaYrG+LRZKhAX0rxZqGtGpKDHAKGY9eMzWHPrRil+/T5PCEEpgFBe3E0gbKSuetyDl00oJG9xxJwbAra0/P6XmG+87QVde4MCiZ8vqeC8oV767cWowzm5e1rlZ+GxZsqa2jVPNGA/JONs2NPtch9h2rjS0q/a/spvHB8+EuRo8qJzilEJ/IMfNo1NHl90eN9tqtvPguo9gwoFJFxn/mue+j7JsmccxH5JfIu6XiDP/kDuOn+fG8QHLiplDavT11WPFu9Mf59tqjs85zcjzwR8vHfF9YU3waxTsj333jIhzYHa1wMFuAByMXO0cqLmsNziYbaOMFufxUlD0Y3DhnfohT7dcqMmFIe3ZfXQoz9/n7XYcSjlI8ZxbhTue2bFHqeZZ7tbZlXV2k5a1vFvlZS3vZmfZrFj9armoXv322579Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-19T13:44:56.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="RjtCUiBQrelKnT4_7Jbx" version="20.8.5" type="github" pages="5">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Entitlement Check">
+    <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="User Logs Into Nexus Portal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="60" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtAN2ILJXpFJlVYJVSxq-3" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="IWNHtpwWEOx4_SlPFsgK-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtAN2ILJXpFJlVYJVSxq-4" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="IWNHtpwWEOx4_SlPFsgK-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Check User Entitlements?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="203.75" y="46.25" width="132.5" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWNHtpwWEOx4_SlPFsgK-0" target="IWNHtpwWEOx4_SlPFsgK-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-0" value="From Account Dropdown User Selects My Entitlements" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWNHtpwWEOx4_SlPFsgK-1" target="IWNHtpwWEOx4_SlPFsgK-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-1" value="System Displays List of Entitlement for the User" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWNHtpwWEOx4_SlPFsgK-2" target="IWNHtpwWEOx4_SlPFsgK-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-2" value="User Review List of Entitlements" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-3" value="User Reviews Permissions Associated with Each Application" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWNHtpwWEOx4_SlPFsgK-8" target="IWNHtpwWEOx4_SlPFsgK-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtAN2ILJXpFJlVYJVSxq-2" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWNHtpwWEOx4_SlPFsgK-8" target="IWNHtpwWEOx4_SlPFsgK-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-8" value="User Launches Application?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="46.25" width="132.5" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWNHtpwWEOx4_SlPFsgK-9" target="IWNHtpwWEOx4_SlPFsgK-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-9" value="System checks to See If User has Access to Application" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="436.25" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtAN2ILJXpFJlVYJVSxq-0" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWNHtpwWEOx4_SlPFsgK-11" target="IWNHtpwWEOx4_SlPFsgK-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtAN2ILJXpFJlVYJVSxq-1" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWNHtpwWEOx4_SlPFsgK-11" target="IWNHtpwWEOx4_SlPFsgK-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-11" value="User has Access?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="360" width="132.5" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-13" value="Display Error Message" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="660" y="373.75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-14" value="System Provides Access to User" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="436.25" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IWNHtpwWEOx4_SlPFsgK-17" value="User Logout" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="660" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DYMGI4B3t5d0-QfFQbIk" name="Create Contact (Self-Register)">
+    <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4h4OIE0NMRHTQQAb2BvF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4h4OIE0NMRHTQQAb2BvF-1" target="4h4OIE0NMRHTQQAb2BvF-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4h4OIE0NMRHTQQAb2BvF-1" value="User Access Nexus Portal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="60" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-2" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4h4OIE0NMRHTQQAb2BvF-2" target="4ZE4uKnnBFG1ciTwPN4Z-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4h4OIE0NMRHTQQAb2BvF-2" target="4ZE4uKnnBFG1ciTwPN4Z-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4h4OIE0NMRHTQQAb2BvF-2" value="Has User in Nexus?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="50" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-1" value="User Logs Into Nexus Portal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="60" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-8" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4ZE4uKnnBFG1ciTwPN4Z-4" target="4ZE4uKnnBFG1ciTwPN4Z-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-4" value="User Self-Register?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="230" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-6" value="User Self-Registered in Nexus" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="262.5" y="540" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4ZE4uKnnBFG1ciTwPN4Z-7" target="4ZE4uKnnBFG1ciTwPN4Z-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeVZ9XcCpanhduhXeq1--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4ZE4uKnnBFG1ciTwPN4Z-6" target="ZeVZ9XcCpanhduhXeq1--1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZE4uKnnBFG1ciTwPN4Z-7" value="User Input Username and Password" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="262.5" y="390" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeVZ9XcCpanhduhXeq1--1" value="User Contact Created Into Sentinel EMS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="495" y="540" width="125" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YayktdIFibmNCx_APFSF" name="Create Contact (Invitation)">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oxGQ6yeSXu-0JhTEDM16-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oxGQ6yeSXu-0JhTEDM16-1" target="oxGQ6yeSXu-0JhTEDM16-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxGQ6yeSXu-0JhTEDM16-1" value="Hexagon Admin / Organization Admin / Partner Logs Into Nexus Portal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="80" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oxGQ6yeSXu-0JhTEDM16-7" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oxGQ6yeSXu-0JhTEDM16-2" target="oxGQ6yeSXu-0JhTEDM16-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxGQ6yeSXu-0JhTEDM16-2" value="Invite User?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="72.5" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="oxGQ6yeSXu-0JhTEDM16-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oxGQ6yeSXu-0JhTEDM16-6" target="oxGQ6yeSXu-0JhTEDM16-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Af-4OrS7k8KYtrDLePJh-4" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oxGQ6yeSXu-0JhTEDM16-6" target="Af-4OrS7k8KYtrDLePJh-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxGQ6yeSXu-0JhTEDM16-6" value="Invitee is In Nexus?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="260" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="Af-4OrS7k8KYtrDLePJh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oxGQ6yeSXu-0JhTEDM16-8" target="Af-4OrS7k8KYtrDLePJh-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxGQ6yeSXu-0JhTEDM16-8" value="User Accept Invitation Via Email" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="267.5" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Af-4OrS7k8KYtrDLePJh-1" value="User Invited Into Organization" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="267.5" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7FIgmbyoldq9o7S9Vdt1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Af-4OrS7k8KYtrDLePJh-3" target="oxGQ6yeSXu-0JhTEDM16-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Af-4OrS7k8KYtrDLePJh-3" value="User Contact Created Into Sentinel EMS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="450" width="150" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="T4UnE4BxFB6iAvoPjaAS" name="E2E">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-0" />
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-1" parent="FPW6D9R25bE7D5pPo8eM-0" />
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FPW6D9R25bE7D5pPo8eM-1" source="FPW6D9R25bE7D5pPo8eM-3" target="FPW6D9R25bE7D5pPo8eM-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#CCE5FF;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="30" y="10" width="280" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FPW6D9R25bE7D5pPo8eM-1" source="FPW6D9R25bE7D5pPo8eM-5" target="FPW6D9R25bE7D5pPo8eM-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-5" value="New User&lt;br&gt;(Self-Registered/ Invited)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FPW6D9R25bE7D5pPo8eM-1" source="FPW6D9R25bE7D5pPo8eM-7" target="FPW6D9R25bE7D5pPo8eM-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-7" value="No Entitlement Assigned" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-8" value="Check the List of User Entitlement" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="80" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FPW6D9R25bE7D5pPo8eM-1" source="FPW6D9R25bE7D5pPo8eM-10" target="FPW6D9R25bE7D5pPo8eM-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-10" value="Logout and Login to User 3 (1 Enititlement" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="110" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FPW6D9R25bE7D5pPo8eM-1" source="FPW6D9R25bE7D5pPo8eM-12" target="FPW6D9R25bE7D5pPo8eM-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-12" value="New User&lt;br&gt;(Self-Registered/ Invited)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="410" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FPW6D9R25bE7D5pPo8eM-1" source="FPW6D9R25bE7D5pPo8eM-14" target="FPW6D9R25bE7D5pPo8eM-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-14" value="No Entitlement Assigned" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="410" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FPW6D9R25bE7D5pPo8eM-1" source="FPW6D9R25bE7D5pPo8eM-17" target="FPW6D9R25bE7D5pPo8eM-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FPW6D9R25bE7D5pPo8eM-1" source="FPW6D9R25bE7D5pPo8eM-17" target="FPW6D9R25bE7D5pPo8eM-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-17" value="Request API Validator for&amp;nbsp; Feature" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="410" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FPW6D9R25bE7D5pPo8eM-1" source="FPW6D9R25bE7D5pPo8eM-19" target="FPW6D9R25bE7D5pPo8eM-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-19" value="Add Entitlement (Mutiple FeatureID) for the User" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#CCE5FF;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="410" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FPW6D9R25bE7D5pPo8eM-1" source="FPW6D9R25bE7D5pPo8eM-21" target="FPW6D9R25bE7D5pPo8eM-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-21" value="Request API Validator for&amp;nbsp; Feature1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="410" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-22" value="Return False" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="610" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-23" value="Return True" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="600" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-24" value="User 1 &amp;amp; 2 - New Users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="30" y="10" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="FPW6D9R25bE7D5pPo8eM-1" source="FPW6D9R25bE7D5pPo8eM-26" target="FPW6D9R25bE7D5pPo8eM-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-26" value="Check the List of User Entitlement" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="110" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FPW6D9R25bE7D5pPo8eM-1" source="FPW6D9R25bE7D5pPo8eM-28" target="FPW6D9R25bE7D5pPo8eM-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-28" value="Logout and Login to User 4 (30 Enititlement)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="110" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FPW6D9R25bE7D5pPo8eM-29" value="Check the List of User Entitlement" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#C9C9C9;" parent="FPW6D9R25bE7D5pPo8eM-1" vertex="1">
+          <mxGeometry x="110" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d_AmKAWRjp_Xg8yRCRSn" name="Componenet Testing">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-0" />
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-1" parent="Z0Xm-XjQPa4-IfprSRsw-0" />
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-2" target="Z0Xm-XjQPa4-IfprSRsw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-2" value="Get User Entitlements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="90" y="270" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-7" value="200 - List of all entitlements for a user" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="300" y="40" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-8" value="200 - No entitlements for a user" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="300" y="160" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-9" value="200 - No entitlements for a invalid user" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="300" y="280" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-10" value="200 - List of all entitlements for a user with expired entitlements" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="300" y="400" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-2" target="Z0Xm-XjQPa4-IfprSRsw-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="255" as="sourcePoint" />
+            <mxPoint x="310" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-2" target="Z0Xm-XjQPa4-IfprSRsw-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="265" as="sourcePoint" />
+            <mxPoint x="320" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-2" target="Z0Xm-XjQPa4-IfprSRsw-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="275" as="sourcePoint" />
+            <mxPoint x="330" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-17" target="Z0Xm-XjQPa4-IfprSRsw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-17" value="Check User Entitlement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="80" y="1030" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-18" value="200 - Check User Entitlement for a valid user with valid featureID (User with one entitlement)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="290" y="740" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-19" value="200 - Check User Entitlement for a valid user with valid featureID having entitlement but not for requested featureID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="290" y="860" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-20" value="200 - Check entitlements for a user by feature Id [ User with no entitlements ]" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="290" y="980" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-21" value="200 - Check User Entitlement for a valid user with valid featureID (User with multiple entitlements)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="290" y="1100" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-17" target="Z0Xm-XjQPa4-IfprSRsw-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="955" as="sourcePoint" />
+            <mxPoint x="300" y="915" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-17" target="Z0Xm-XjQPa4-IfprSRsw-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="965" as="sourcePoint" />
+            <mxPoint x="310" y="925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-17" target="Z0Xm-XjQPa4-IfprSRsw-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="975" as="sourcePoint" />
+            <mxPoint x="320" y="935" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-25" value="200 - User with one entitlement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="300" y="530" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-2" target="Z0Xm-XjQPa4-IfprSRsw-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="255" as="sourcePoint" />
+            <mxPoint x="310" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-27" value="200 - Check User Entitlement for an invalid user with valid featureID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="290" y="1230" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-28" value="400 - C&lt;span&gt;heck User Entitlement for invalid user email format with valid featureID&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="290" y="1360" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-17" target="Z0Xm-XjQPa4-IfprSRsw-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="955" as="sourcePoint" />
+            <mxPoint x="300" y="1155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-17" target="Z0Xm-XjQPa4-IfprSRsw-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="965" as="sourcePoint" />
+            <mxPoint x="310" y="1165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-32" target="Z0Xm-XjQPa4-IfprSRsw-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-32" value="Create Contact" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="80" y="1640" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-33" value="200 -&amp;nbsp;Successfully create contact in EMS for a given user" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="290" y="1530" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-34" value="400 -&amp;nbsp;Invalid email id provided in request body" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="290" y="1650" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-35" value="400 -&amp;nbsp;Existing user email id provided in request body" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z0Xm-XjQPa4-IfprSRsw-1">
+          <mxGeometry x="290" y="1770" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-32" target="Z0Xm-XjQPa4-IfprSRsw-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1745" as="sourcePoint" />
+            <mxPoint x="300" y="1705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0Xm-XjQPa4-IfprSRsw-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z0Xm-XjQPa4-IfprSRsw-1" source="Z0Xm-XjQPa4-IfprSRsw-32" target="Z0Xm-XjQPa4-IfprSRsw-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="1755" as="sourcePoint" />
+            <mxPoint x="310" y="1715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
