@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T13:46:53.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="MnuDK-ZjqOfx2W6jSAOb" version="20.8.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-19T13:47:41.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eAemNbQQt8G4gHewbdDT" version="20.8.5" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Entitlement Check">
     <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
         <mxCell id="dLeEXiZmTAWmC0sYynZG-2" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dLeEXiZmTAWmC0sYynZG-1" target="ZeVZ9XcCpanhduhXeq1--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dLeEXiZmTAWmC0sYynZG-1" value="Sentinel contact for user is existed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dLeEXiZmTAWmC0sYynZG-1" value="Sentinel contact for&amp;nbsp; user is existed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="535" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
@@ -169,6 +169,9 @@
         </mxCell>
         <mxCell id="Af-4OrS7k8KYtrDLePJh-3" value="User Contact Created Into Sentinel EMS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="450" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DIx39uCaoXOHJm8hFo8u-3" value="Invite User?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="420" width="140" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
