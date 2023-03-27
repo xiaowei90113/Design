@@ -1,17 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T03:31:13.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="fNA2OATSkl7NbuWmUmZY" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T08:57:42.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="bomNstv7zldLk--qHPw2" version="21.1.0" type="github">
   <diagram name="Page-1" id="2dQwfWUj7SHDJcY4iqtX">
-    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YwquEOC9PIAEwXkHVDcG-1" value="Nexus EMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="Q25p3ouY3zWikEKPChKH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YwquEOC9PIAEwXkHVDcG-1" target="Q25p3ouY3zWikEKPChKH-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YwquEOC9PIAEwXkHVDcG-2" value="Sentinel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="YwquEOC9PIAEwXkHVDcG-1" value="User select a softeware" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="346" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YwquEOC9PIAEwXkHVDcG-3" value="Nexus AMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="Q25p3ouY3zWikEKPChKH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YwquEOC9PIAEwXkHVDcG-3" target="Q25p3ouY3zWikEKPChKH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YwquEOC9PIAEwXkHVDcG-3" value="User login Nexus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-12" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q25p3ouY3zWikEKPChKH-4" target="YwquEOC9PIAEwXkHVDcG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-4" value="Login success" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="145" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-8" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q25p3ouY3zWikEKPChKH-6" target="Q25p3ouY3zWikEKPChKH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-10" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q25p3ouY3zWikEKPChKH-6" target="Q25p3ouY3zWikEKPChKH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-6" value="Nexus check user entitlement" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="130" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-7" value="Display launch button" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="766" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-9" value="Hide launch button" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q25p3ouY3zWikEKPChKH-16" target="Q25p3ouY3zWikEKPChKH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-16" value="Customer purchase product entitlements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-17" value="HULL team create entitlements" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q25p3ouY3zWikEKPChKH-19" target="Q25p3ouY3zWikEKPChKH-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-19" value="Organization Admin login Nexus" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q25p3ouY3zWikEKPChKH-20" target="Q25p3ouY3zWikEKPChKH-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-20" value="Admin select organization" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q25p3ouY3zWikEKPChKH-22" target="Q25p3ouY3zWikEKPChKH-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-22" value="Admin go to entitlements list" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q25p3ouY3zWikEKPChKH-24" target="Q25p3ouY3zWikEKPChKH-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-24" value="Admin review available user count for entitlement" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-29" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q25p3ouY3zWikEKPChKH-26" target="Q25p3ouY3zWikEKPChKH-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-26" value="Entitlement user limitation not reached" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-65" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Q25p3ouY3zWikEKPChKH-28" value="Admin assign user to product entitlement" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="985" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
