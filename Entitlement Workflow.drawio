@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T06:27:54.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="CA6i35nQTDDLz9KDY3wj" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-29T07:58:50.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="vw_TOdsSREW0Dgo0BE-x" version="21.1.1" type="github" pages="4">
   <diagram name="Workflow" id="2dQwfWUj7SHDJcY4iqtX">
     <mxGraphModel dx="2284" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yeY0W6i4McD_Fl_-XDmd" name="Dataflow">
-    <mxGraphModel dx="3718" dy="2648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,6 +253,180 @@
         </mxCell>
         <mxCell id="OBXchac6QpqI_Xxo9cKc-21" value="Product/Feature Code" style="text;spacingTop=-5;align=center;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="410" y="-1050" width="104" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fXig38YI9zBuYBIySYjb" name="License Limit Reduced">
+    <mxGraphModel dx="1434" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SUUwkzFtN8AckQQWqOuF-1" target="Og3__Hb2zOryTFHM7Znv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUUwkzFtN8AckQQWqOuF-1" value="Customer ask for reduce license count" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Og3__Hb2zOryTFHM7Znv-1" target="Og3__Hb2zOryTFHM7Znv-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="280" />
+              <mxPoint x="140" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-1" value="Team HULL operates in Sentinel" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Og3__Hb2zOryTFHM7Znv-3" target="Og3__Hb2zOryTFHM7Znv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-3" value="Organization Admin receive notification on the license count reduction" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Og3__Hb2zOryTFHM7Znv-5" target="Og3__Hb2zOryTFHM7Znv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-5" value="Organization Admin login Nexus" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Og3__Hb2zOryTFHM7Znv-7" target="Og3__Hb2zOryTFHM7Znv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-7" value="Admin go to App/Software page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Og3__Hb2zOryTFHM7Znv-10" target="Og3__Hb2zOryTFHM7Znv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-10" value="Admin review the software of which license is reduced" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Og3__Hb2zOryTFHM7Znv-12" target="Og3__Hb2zOryTFHM7Znv-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="440" />
+              <mxPoint x="130" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-12" value="Admin re-assign software licenses to users" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Og3__Hb2zOryTFHM7Znv-14" target="Og3__Hb2zOryTFHM7Znv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-14" value="User login Nexus" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Og3__Hb2zOryTFHM7Znv-16" value="User verify the re-assigned license" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="x4X-Ben7ihlHkbEoHk_z" name="License Limit Reduced Dataflow">
+    <mxGraphModel dx="2284" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-1" value="Customer" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-1050" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-2" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HK0WFAyOnRqxtyYE6ZAg-1" target="HK0WFAyOnRqxtyYE6ZAg-13">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="340.5" y="-1111" as="sourcePoint" />
+            <mxPoint x="120.5" y="-1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-3" value="Sentinel" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="513.5" y="-875" width="151.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-4" value="Team HULL" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="301.5" y="-1050" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-5" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HK0WFAyOnRqxtyYE6ZAg-20" target="HK0WFAyOnRqxtyYE6ZAg-3">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="351" y="-850.5" as="sourcePoint" />
+            <mxPoint x="505" y="-850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-6" value="Organization Admin" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="544.25" y="-594" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-7" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HK0WFAyOnRqxtyYE6ZAg-3" target="HK0WFAyOnRqxtyYE6ZAg-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="361" y="-840.5" as="sourcePoint" />
+            <mxPoint x="589" y="-750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-8" value="Nexus EMS" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="513.5" y="-740" width="151.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-9" value="Target license Unbound" style="text;spacingTop=-5;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-800" width="104" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-12" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HK0WFAyOnRqxtyYE6ZAg-8" target="HK0WFAyOnRqxtyYE6ZAg-6">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="589.25" y="-664" as="sourcePoint" />
+            <mxPoint x="599" y="-704" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-13" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ask for reducing license limit&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="113" y="-1065" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-14" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HK0WFAyOnRqxtyYE6ZAg-13" target="HK0WFAyOnRqxtyYE6ZAg-4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="230.5" y="-1020" as="sourcePoint" />
+            <mxPoint x="130.5" y="-1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-20" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Reduce license limit in Sentinel&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="289" y="-895" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-21" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HK0WFAyOnRqxtyYE6ZAg-4" target="HK0WFAyOnRqxtyYE6ZAg-20">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="233" y="-1025" as="sourcePoint" />
+            <mxPoint x="304" y="-1025" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-22" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Re-assign user to entitlements&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="286" y="-690" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-23" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HK0WFAyOnRqxtyYE6ZAg-6" target="HK0WFAyOnRqxtyYE6ZAg-22">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="409" y="-814" as="sourcePoint" />
+            <mxPoint x="346" y="-594" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="-564" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-24" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HK0WFAyOnRqxtyYE6ZAg-22" target="HK0WFAyOnRqxtyYE6ZAg-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="554" y="-554" as="sourcePoint" />
+            <mxPoint x="351" y="-590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="-715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-28" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.967;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HK0WFAyOnRqxtyYE6ZAg-3" target="HK0WFAyOnRqxtyYE6ZAg-6">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="670" y="-850.5" as="sourcePoint" />
+            <mxPoint x="785" y="-850.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="-850" />
+              <mxPoint x="800" y="-564" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-29" value="Notification sent for license limit reduction" style="text;spacingTop=-5;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-740" width="104" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HK0WFAyOnRqxtyYE6ZAg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HK0WFAyOnRqxtyYE6ZAg-29" target="HK0WFAyOnRqxtyYE6ZAg-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
